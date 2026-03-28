@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+AIML+%40+NIT+Kurukshetra;Machine+Learning+%26+Deep+Learning+Engineer;RAG+%7C+NLP+%7C+Computer+Vision+Developer;Top+60+%2F+5000%2B+%E2%80%94+Salesforce+Futureforce+AI+Hackathon+🏆;Building+intelligent+solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+AIML+%40+NIT+Kurukshetra;Machine+Learning+%26+Deep+Learning+Engineer;RAG+%7C+NLP+%7C+Computer+Vision+Developer;Top+60+%2F+5000%2B+-+Salesforce+Futureforce+AI+Hackathon;Building+intelligent+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -102,11 +102,11 @@ class Karan:
 
 <div align="center">
 
-| 🖥️ Platform | 🏅 Rank / Title | 📈 Highest Rating | 🔗 Profile |
+| 🍴 Platform | 🏅 Rank / Title | 📈 Highest Rating | 🔗 Profile |
 |-------------|----------------|-------------------|------------|
-| ![CodeChef](https://img.shields.io/badge/CodeChef-0f0c29?style=flat-square&logo=codechef&logoColor=a78bfa) **CodeChef** | ⭐⭐⭐ 3-Star · Global Rank **119** (Starters 161) | **1694** | [Visit →](https://www.codechef.com/users/karan9904) |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-0f0c29?style=flat-square&logo=codeforces&logoColor=a78bfa) **Codeforces** | 🟦 Pupil · Rank **2392 / 20k+** (Round 1002) | **1348** | [Visit →](https://codeforces.com/profile/karan_tekchandani) |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=flat-square&logo=leetcode&logoColor=a78bfa) **LeetCode** | 🪖 Knight · Top **5%** Globally | **1880** | [Visit →](https://leetcode.com/u/karan_tekchandani) |
+| 🍕 **CodeChef** | ⭐⭐⭐ 3-Star · Global Rank **119** (Starters 161) | **1694** | [Visit →](https://www.codechef.com/users/karan9904) |
+| 💙 **Codeforces** | 🟦 Pupil · Rank **2392 / 20k+** (Round 1002) | **1348** | [Visit →](https://codeforces.com/profile/karan_tekchandani) |
+| 🟡 **LeetCode** | 🪖 Knight · Top **5%** Globally | **1880** | [Visit →](https://leetcode.com/u/karan_tekchandani) |
 
 </div>
 
@@ -116,13 +116,13 @@ class Karan:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karan3705&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karan3705&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan3705&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan3705&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karan3705&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Karan3705&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff&sideNums=a78bfa&currStreakNum=ffffff" />
 
 </div>
 
