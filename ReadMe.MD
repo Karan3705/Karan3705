@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karan%20Tekchandani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=20&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<!-- Header Banner — deep navy blue -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0f2040,100:091830&height=200&section=header&text=Karan%20Tekchandani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=20&descAlignY=60&descColor=60a5fa&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+ideas+into+reality%2C+one+commit+at+a+time;Passionate+developer+%40+NIT+Kurukshetra;I+build+things+that+matter;Open+source+enthusiast+%26+lifelong+learner;Always+shipping%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60a5fa&center=true&vCenter=true&width=700&lines=Turning+ideas+into+reality%2C+one+commit+at+a+time;Passionate+developer+%40+NIT+Kurukshetra;I+build+things+that+matter;Open+source+enthusiast+%26+lifelong+learner;Always+shipping%2C+always+growing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,18 +13,18 @@
 <!-- Social Badges -->
 <p>
   <a href="https://github.com/Karan3705">
-    <img src="https://img.shields.io/github/followers/Karan3705?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=0d0d0d" />
+    <img src="https://img.shields.io/github/followers/Karan3705?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=1a56db&labelColor=0a1628" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/karan-tekchandani-063136298">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1a56db?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628" />
   </a>
   &nbsp;
   <a href="mailto:karantekchandani08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-karantekchandani08-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
+    <img src="https://img.shields.io/badge/Gmail-karantekchandani08-1a56db?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1628" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Karan3705&style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Karan3705&style=for-the-badge&color=1a56db&labelColor=0a1628&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -63,36 +63,36 @@ class Karan:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
-![C++](https://img.shields.io/badge/C%2FC++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-0f0c29?style=for-the-badge&logo=html5&logoColor=a78bfa)
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=60a5fa)
+![C++](https://img.shields.io/badge/C%2FC++-0a1628?style=for-the-badge&logo=cplusplus&logoColor=60a5fa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=for-the-badge&logo=javascript&logoColor=60a5fa)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-0a1628?style=for-the-badge&logo=html5&logoColor=60a5fa)
+![SQL](https://img.shields.io/badge/SQL-0a1628?style=for-the-badge&logo=mysql&logoColor=60a5fa)
 
 **AI / ML & Deep Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=a78bfa)
-![Keras](https://img.shields.io/badge/Keras-0f0c29?style=for-the-badge&logo=keras&logoColor=a78bfa)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa)
-![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa)
-![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1628?style=for-the-badge&logo=tensorflow&logoColor=60a5fa)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1628?style=for-the-badge&logo=pytorch&logoColor=60a5fa)
+![Keras](https://img.shields.io/badge/Keras-0a1628?style=for-the-badge&logo=keras&logoColor=60a5fa)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0a1628?style=for-the-badge&logo=scikitlearn&logoColor=60a5fa)
+![Pandas](https://img.shields.io/badge/Pandas-0a1628?style=for-the-badge&logo=pandas&logoColor=60a5fa)
+![NumPy](https://img.shields.io/badge/NumPy-0a1628?style=for-the-badge&logo=numpy&logoColor=60a5fa)
 
 **GenAI & NLP**
 
-![LangChain](https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=a78bfa)
-![FAISS](https://img.shields.io/badge/FAISS-0f0c29?style=for-the-badge&logo=meta&logoColor=a78bfa)
-![Gemini](https://img.shields.io/badge/Gemini%20API-0f0c29?style=for-the-badge&logo=google&logoColor=a78bfa)
-![Streamlit](https://img.shields.io/badge/Streamlit-0f0c29?style=for-the-badge&logo=streamlit&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-0a1628?style=for-the-badge&logo=chainlink&logoColor=60a5fa)
+![FAISS](https://img.shields.io/badge/FAISS-0a1628?style=for-the-badge&logo=meta&logoColor=60a5fa)
+![Gemini](https://img.shields.io/badge/Gemini%20API-0a1628?style=for-the-badge&logo=google&logoColor=60a5fa)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a1628?style=for-the-badge&logo=streamlit&logoColor=60a5fa)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa)
-![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)
-![Jupyter](https://img.shields.io/badge/Jupyter-0f0c29?style=for-the-badge&logo=jupyter&logoColor=a78bfa)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
-![Kaggle](https://img.shields.io/badge/Kaggle-0f0c29?style=for-the-badge&logo=kaggle&logoColor=a78bfa)
-![Postman](https://img.shields.io/badge/Postman-0f0c29?style=for-the-badge&logo=postman&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-0a1628?style=for-the-badge&logo=git&logoColor=60a5fa)
+![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=60a5fa)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a1628?style=for-the-badge&logo=jupyter&logoColor=60a5fa)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a1628?style=for-the-badge&logo=visualstudiocode&logoColor=60a5fa)
+![Kaggle](https://img.shields.io/badge/Kaggle-0a1628?style=for-the-badge&logo=kaggle&logoColor=60a5fa)
+![Postman](https://img.shields.io/badge/Postman-0a1628?style=for-the-badge&logo=postman&logoColor=60a5fa)
 
 </div>
 
@@ -102,11 +102,31 @@ class Karan:
 
 <div align="center">
 
-| 🖥️ Platform | 🏅 Title | 📈 Highest Rating | 🔗 Profile |
-|-------------|---------|-------------------|------------|
-| **CodeChef** | ⭐⭐⭐ 3-Star | **1694** | [Visit →](https://www.codechef.com/users/karan9904) |
-| **Codeforces** | 🟦 Pupil | **1348** | [Visit →](https://codeforces.com/profile/karan_tekchandani) |
-| **LeetCode** | 🪖 Knight | **1880** | [Visit →](https://leetcode.com/u/karan_tekchandani) |
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/CODECHEF-karan9904-1a56db?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a1628" /><br/>
+<img src="https://img.shields.io/badge/Rating-1694-60a5fa?style=flat-square&labelColor=0a1628" />
+&nbsp;
+<img src="https://img.shields.io/badge/⭐⭐⭐-3--Star-f59e0b?style=flat-square&labelColor=0a1628" /><br/>
+<a href="https://www.codechef.com/users/karan9904"><sub>View Profile →</sub></a>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/CODEFORCES-karan__tekchandani-1d4ed8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=091830" /><br/>
+<img src="https://img.shields.io/badge/Rating-1348-93c5fd?style=flat-square&labelColor=091830" />
+&nbsp;
+<img src="https://img.shields.io/badge/🟦-Pupil-3b82f6?style=flat-square&labelColor=091830" /><br/>
+<a href="https://codeforces.com/profile/karan_tekchandani"><sub>View Profile →</sub></a>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/LEETCODE-karan__tekchandani-2563eb?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0c2040" /><br/>
+<img src="https://img.shields.io/badge/Rating-1880-7cb8f5?style=flat-square&labelColor=0c2040" />
+&nbsp;
+<img src="https://img.shields.io/badge/🪖-Knight-60a5fa?style=flat-square&labelColor=0c2040" /><br/>
+<a href="https://leetcode.com/u/karan_tekchandani"><sub>View Profile →</sub></a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -116,24 +136,26 @@ class Karan:
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Karan3705&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff&sideNums=a78bfa&currStreakNum=ffffff" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Karan3705&hide_border=true&background=0a1628&ring=1a56db&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=7cb8f5&sideNums=60a5fa&currStreakNum=ffffff" />
 
 </div>
+
+---
 
 ## 📬 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Karan3705">
-  <img src="https://img.shields.io/badge/GitHub-Karan3705-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/GitHub-Karan3705-1a56db?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1628" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/karan-tekchandani-063136298">
-  <img src="https://img.shields.io/badge/LinkedIn-karan--tekchandani-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/LinkedIn-karan--tekchandani-1a56db?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628" />
 </a>
 &nbsp;
 <a href="mailto:karantekchandani08@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-karantekchandani08-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Gmail-karantekchandani08-1a56db?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1628" />
 </a>
 
 </div>
@@ -142,7 +164,7 @@ class Karan:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:091830,50:0f2040,100:0a1628&height=120&section=footer" />
 
 *"Code is poetry — write something worth reading."*
 
