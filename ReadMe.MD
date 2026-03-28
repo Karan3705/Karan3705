@@ -49,7 +49,7 @@ class Karan:
 
 | 🔢 | Project | Description | Tech Stack | Repo |
 |:--:|---------|-------------|------------|------|
-| 1 | 🎓 **LearnMate** | End-to-end RAG system with PDF & YouTube ingestion, FAISS semantic search, quiz generation & Gemini-powered Q&A | `Streamlit` `FAISS` `Gemini API` `NLP` `Sentence Transformers` | [View →](https://github.com/Karan3705/LearnMate) |
+| 1 | 🎓 **LearnMate** | End-to-end RAG system with PDF & YouTube ingestion, FAISS semantic search, quiz generation & Gemini-powered Q&A | `Streamlit` `FAISS` `Gemini API` `NLP` `Sentence Transformers` | [View →](https://github.com/ayush-3107/LearnMate) |
 | 2 | 📚 **JEE Study Buddy** | AI-powered JEE prep platform — personalized chat, PDF weak-topic detection, auto quizzes & gamified dashboard | `Python` `Streamlit` `Gemini API` `YouTube API` | [View →](https://github.com/Karan3705/JEE-Study-Buddy) |
 | 3 | 💬 **Sentiment Analyser** | NLP pipeline using TensorFlow & spaCy on 10k+ Amazon reviews — 70% accuracy, <500ms latency, Streamlit UI | `Python` `TensorFlow` `spaCy` `Streamlit` | [View →](https://github.com/Karan3705/Sentiment-Analyser) |
 | 4 | 🎥 **Movie-Dekho** | Smart movie recommendation engine — pick one film, get 5 tailored suggestions instantly | `Python` `Scikit-learn` `Pandas` `Jupyter` | [View →](https://github.com/Karan3705/Movie-Dekho) |
