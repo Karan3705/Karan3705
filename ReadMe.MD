@@ -102,11 +102,11 @@ class Karan:
 
 <div align="center">
 
-| Platform | Title | Rating |
-|----------|-------|--------|
-| <img src="https://img.shields.io/badge/CodeChef-0d0d0d?style=flat-square&logo=codechef&logoColor=white" /> | ⭐⭐⭐ 3-Star | 1694 |
-| <img src="https://img.shields.io/badge/Codeforces-0d0d0d?style=flat-square&logo=codeforces&logoColor=white" /> | 🟦 Pupil | 1348 |
-| <img src="https://img.shields.io/badge/LeetCode-0d0d0d?style=flat-square&logo=leetcode&logoColor=white" /> | 🪖 Knight | 1880 |
+| 🖥️ Platform | 🏅 Title | 📈 Highest Rating | 🔗 Profile |
+|-------------|---------|-------------------|------------|
+| **CodeChef** | ⭐⭐⭐ 3-Star | **1694** | [Visit →](https://www.codechef.com/users/karan9904) |
+| **Codeforces** | 🟦 Pupil | **1348** | [Visit →](https://codeforces.com/profile/karan_tekchandani) |
+| **LeetCode** | 🪖 Knight | **1880** | [Visit →](https://leetcode.com/u/karan_tekchandani) |
 
 </div>
 
