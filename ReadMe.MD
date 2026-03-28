@@ -111,19 +111,15 @@ class Karan:
 <img src="https://img.shields.io/badge/⭐⭐⭐-3--Star-f59e0b?style=flat-square&labelColor=0a1628" /><br/>
 <a href="https://www.codechef.com/users/karan9904"><sub>View Profile →</sub></a>
 </td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/CODEFORCES-karan__tekchandani-1d4ed8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=091830" /><br/>
-<img src="https://img.shields.io/badge/Rating-1348-93c5fd?style=flat-square&labelColor=091830" />
-&nbsp;
-<img src="https://img.shields.io/badge/🟦-Pupil-3b82f6?style=flat-square&labelColor=091830" /><br/>
-<a href="https://codeforces.com/profile/karan_tekchandani"><sub>View Profile →</sub></a>
+<td align="center">
+<a href="https://codeforces.com/profile/karan_tekchandani">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=karan_tekchandani&theme=dark&force_username=true" />
+</a>
 </td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/LEETCODE-karan__tekchandani-2563eb?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0c2040" /><br/>
-<img src="https://img.shields.io/badge/Rating-1880-7cb8f5?style=flat-square&labelColor=0c2040" />
-&nbsp;
-<img src="https://img.shields.io/badge/🪖-Knight-60a5fa?style=flat-square&labelColor=0c2040" /><br/>
-<a href="https://leetcode.com/u/karan_tekchandani"><sub>View Profile →</sub></a>
+<td align="center">
+<a href="https://leetcode.com/u/karan_tekchandani">
+  <img src="https://leetcard.jacoblin.cool/karan_tekchandani?theme=dark&font=Fira%20Code&ext=contest" />
+</a>
 </td>
 </tr>
 </table>
