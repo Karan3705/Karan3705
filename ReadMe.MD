@@ -102,17 +102,11 @@ class Karan:
 
 <div align="center">
 
-<a href="https://www.codechef.com/users/karan9904">
-  <img src="https://img.shields.io/badge/CodeChef-3--Star%20%7C%201694-7c3aed?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0d0d" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/karan_tekchandani">
-  <img src="https://img.shields.io/badge/Codeforces-Pupil%20%7C%201348-7c3aed?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0d" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/karan_tekchandani">
-  <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201880-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d" />
-</a>
+| Platform | Title | Rating |
+|----------|-------|--------|
+| <img src="https://img.shields.io/badge/CodeChef-0d0d0d?style=flat-square&logo=codechef&logoColor=white" /> | ⭐⭐⭐ 3-Star | 1694 |
+| <img src="https://img.shields.io/badge/Codeforces-0d0d0d?style=flat-square&logo=codeforces&logoColor=white" /> | 🟦 Pupil | 1348 |
+| <img src="https://img.shields.io/badge/LeetCode-0d0d0d?style=flat-square&logo=leetcode&logoColor=white" /> | 🪖 Knight | 1880 |
 
 </div>
 
