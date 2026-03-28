@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karan%20Tekchandani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20NLP%20%7C%20Deep%20Learning&descSize=20&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karan%20Tekchandani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=20&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+AIML+%40+NIT+Kurukshetra;Machine+Learning+%26+Deep+Learning+Engineer;RAG+%7C+NLP+%7C+Computer+Vision+Developer;Top+60+%2F+5000%2B+-+Salesforce+Futureforce+AI+Hackathon;Building+intelligent+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+ideas+into+reality%2C+one+commit+at+a+time;Passionate+developer+%40+NIT+Kurukshetra;I+build+things+that+matter;Open+source+enthusiast+%26+lifelong+learner;Always+shipping%2C+always+growing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,7 +38,7 @@ class Karan:
     name        = "Karan Tekchandani"
     education   = "B.Tech AIML — NIT Kurukshetra"
     location    = "Kurukshetra, Haryana 🇮🇳"
-    interests   = ["RAG Systems", "NLP", "Deep Learning", "Computer Vision"]
+    interests   = ["NLP", "RAG Systems", "Deep Learning", "Competitive Programming"]
     currently   = "Building AI-powered apps & cracking competitive programming"
     fun_fact    = "I write code and prose with equal passion ✍️"
 ```
@@ -102,11 +102,17 @@ class Karan:
 
 <div align="center">
 
-| 🍴 Platform | 🏅 Rank / Title | 📈 Highest Rating | 🔗 Profile |
-|-------------|----------------|-------------------|------------|
-| 🍕 **CodeChef** | ⭐⭐⭐ 3-Star · Global Rank **119** (Starters 161) | **1694** | [Visit →](https://www.codechef.com/users/karan9904) |
-| 💙 **Codeforces** | 🟦 Pupil · Rank **2392 / 20k+** (Round 1002) | **1348** | [Visit →](https://codeforces.com/profile/karan_tekchandani) |
-| 🟡 **LeetCode** | 🪖 Knight · Top **5%** Globally | **1880** | [Visit →](https://leetcode.com/u/karan_tekchandani) |
+<a href="https://www.codechef.com/users/karan9904">
+  <img src="https://img.shields.io/badge/CodeChef-3--Star%20%7C%201694-7c3aed?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/karan_tekchandani">
+  <img src="https://img.shields.io/badge/Codeforces-Pupil%20%7C%201348-7c3aed?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/karan_tekchandani">
+  <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201880-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d" />
+</a>
 
 </div>
 
@@ -115,12 +121,6 @@ class Karan:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karan3705&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan3705&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
-
-<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Karan3705&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff&sideNums=a78bfa&currStreakNum=ffffff" />
 
